@@ -1,3 +1,3 @@
 # hello-world
-just repository
+just repository.
 I'm athrun zala.
